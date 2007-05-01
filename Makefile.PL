@@ -11,7 +11,6 @@ BEGIN {
 		'PREREQ_PM'    => {
 			Test::More  => 0,
 			Time::HiRes => 0,
-			package     => 0,
 		},                                  # e.g., Module::Name => 1.1
 
 		#ABSTRACT_FROM => 'lib/Math/Color.pm',

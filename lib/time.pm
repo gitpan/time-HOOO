@@ -2,7 +2,7 @@ package time;
 use strict;
 use warnings;
 
-our $VERSION = '1.0012';
+our $VERSION = '1.0014';
 
 use Time::HiRes @Time::HiRes::EXPORT_OK;
 use Exporter 'import';

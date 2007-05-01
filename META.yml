@@ -1,12 +1,11 @@
 --- #YAML:1.0
 name:                time
-version:             1.0012
+version:             1.0014
 abstract:            ~
 license:             ~
 generated_by:        ExtUtils::MakeMaker version 6.32
 distribution_type:   module
 requires:     
-    package:                       0
     Test::More:                    0
     Time::HiRes:                   0
 meta-spec:
